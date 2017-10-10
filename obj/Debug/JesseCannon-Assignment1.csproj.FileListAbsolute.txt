@@ -77,6 +77,5 @@ C:\Users\Jesse Cannon\Desktop\JesseCannon-Assignment1\JesseCannon-Assignment1\bi
 C:\Users\Jesse Cannon\Desktop\JesseCannon-Assignment1\JesseCannon-Assignment1\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Jesse Cannon\Desktop\JesseCannon-Assignment1\JesseCannon-Assignment1\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Jesse Cannon\Desktop\JesseCannon-Assignment1\JesseCannon-Assignment1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Jesse Cannon\Desktop\JesseCannon-Assignment1\JesseCannon-Assignment1\obj\Debug\JesseCannon-Assignment1.csprojResolveAssemblyReference.cache
 C:\Users\Jesse Cannon\Desktop\JesseCannon-Assignment1\JesseCannon-Assignment1\obj\Debug\JesseCannon-Assignment1.dll
 C:\Users\Jesse Cannon\Desktop\JesseCannon-Assignment1\JesseCannon-Assignment1\obj\Debug\JesseCannon-Assignment1.pdb
